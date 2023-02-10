@@ -2,7 +2,7 @@
 🔭 I’m currently working on the Happy Places Application<br>🌱 I’m currently learning Java | Android Development<br>💬 Ask me about Kotlin, Java, SDK <br>⚡ Fun fact I am marvel fan 
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-singh-74a7b8218) 
 
 # 💻 Tech Stack:
